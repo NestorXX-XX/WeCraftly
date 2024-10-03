@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Sevillana");
+
+/* To change specicif part of the chatbot */
+.vfrc-assistant-info--title{
+  --fonts-default: 'Sevillana', cursive;
+}
+
+/* To Change all*/
+:host{
+  --fonts-default: 'Sevillana', cursive;
+}
