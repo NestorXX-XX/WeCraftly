@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto");
 
-/* To change specific part of the chatbot */
-.vfrc-assistant-info--title{
-  --fonts-default: 'Roboto', sans-serif; /* Changed to Roboto */
-}
-
 /* To Change all */
 :host{
   --fonts-default: 'Roboto', sans-serif; /* Changed to Roboto */
