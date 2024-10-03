@@ -1,11 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Sevillana");
+@import url("https://fonts.googleapis.com/css2?family=Roboto");
 
-/* To change specicif part of the chatbot */
+/* To change specific part of the chatbot */
 .vfrc-assistant-info--title{
-  --fonts-default: 'Sevillana', cursive;
+  --fonts-default: 'Roboto', sans-serif; /* Changed to Roboto */
 }
 
-/* To Change all*/
+/* To Change all */
 :host{
-  --fonts-default: 'Sevillana', cursive;
+  --fonts-default: 'Roboto', sans-serif; /* Changed to Roboto */
 }
